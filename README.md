@@ -1,7 +1,10 @@
 ### Chào các bạn mình là Hoà. Đây là github nên mình sẽ chia sẻ các dự án lập trình web Font-End từ cơ bản đến nâng cao, hãy cùng mình nha 👋
+🌱🌱🌱🌱🌱Mục đích hướng tới của mình là Full Stack. Còn bạn thì sao
+
+![alt text](https://www.crio.do/blog/content/images/2021/04/Full-stack-development-blueprint.png)
 
 
-**hoanguyen6611/hoanguyen6611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **hoanguyen6611/hoanguyen6611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
