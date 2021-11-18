@@ -9,6 +9,10 @@
 ### ⚡⚡⚡Một số tài liệu, trang web chia sẻ về lập trình web
 1. Lộ trình học tập Web và một số ngôn ngữ lập trình khác: https://roadmap.sh/roadmaps
 2. Chia sẻ về lập trình web thuần Tiếng Việt: https://fullstack.edu.vn/
+3. 
+## Nếu bạn sử dụng github bằng tài khoản sinh viên hãy tận dùng hết những ưu đãi đó
+Hãy truy cập vào link sau và tìm hiểu: https://education.github.com/globalcampus/student
+![alt text](https://res.cloudinary.com/dxd5emviu/image/upload/v1637204679/giteducation_d7hyub.png)
 <!-- **hoanguyen6611/hoanguyen6611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
