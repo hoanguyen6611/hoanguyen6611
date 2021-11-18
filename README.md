@@ -1,6 +1,6 @@
-### Hi there 👋
+### Chào các bạn mình là Hoà. Đây là github nên mình sẽ chia sẻ các dự án lập trình web Font-End từ cơ bản đến nâng cao, hãy cùng mình nha 👋
 
-<!--
+
 **hoanguyen6611/hoanguyen6611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
