@@ -36,9 +36,9 @@
   <a target="_blank" href="https://www.facebook.com/originalphreak/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
   <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
   <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
-
+<a href = 'http://hoanguyen.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
 <a href="https://www.linkedin.com/in/ho%C3%A0-nguy%E1%BB%85n-huy-22a910213/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/hoanguyen6__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/hoanguyen2661" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a><br>
-<p><b>Email:</b>hoahuy2606@gmail.com</p>
+<p><b>Email:</b> hoahuy2606@gmail.com</p>
 
