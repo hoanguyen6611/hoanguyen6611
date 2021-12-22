@@ -1,10 +1,4 @@
-### ✨✨✨✨✨HOÀ chia sẻ lập trình Web
 
-Đây là github nên mình sẽ chia sẻ các dự án lập trình web Font-End từ cơ bản đến nâng cao, hãy cùng mình nha 👋
-
-🌱🌱🌱🌱🌱Mục đích hướng tới của mình là Full Stack. Còn bạn thì sao, hãy đi cùng mình nha 
-
-![alt text](https://www.crio.do/blog/content/images/2021/04/Full-stack-development-blueprint.png)
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -26,28 +20,14 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-### ⚡⚡⚡Một số tài liệu, trang web chia sẻ về lập trình web
-1. Lộ trình học tập Web và một số ngôn ngữ lập trình khác: https://roadmap.sh/roadmaps
-2. Chia sẻ về lập trình web thuần Tiếng Việt: https://fullstack.edu.vn/
-3. 
-## Nếu bạn sử dụng github bằng tài khoản sinh viên hãy tận dùng hết những ưu đãi đó
-Hãy truy cập vào link sau và tìm hiểu: https://education.github.com/globalcampus/student
-![alt text](https://res.cloudinary.com/dxd5emviu/image/upload/v1637204679/giteducation_d7hyub.png)
-## 👯👯Một số trang github mình đã sử dụng cho việc phục việc học:🔭
-1. NodeJS:
-2. ReactJS:
-3. JavaScript
-4. HTML/CSS
-<!-- **hoanguyen6611/hoanguyen6611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<i>Follow me around the web:</i><br>
 
-Here are some ideas to get you started:
+  <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+  <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
+  <a target="_blank" href="https://www.facebook.com/originalphreak/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
+  <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
+  <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
+<a href="https://www.linkedin.com/in/ho%C3%A0-nguy%E1%BB%85n-huy-22a910213/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/hoanguyen6__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/hoanguyen2661" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
