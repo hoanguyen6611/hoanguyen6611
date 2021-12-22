@@ -34,6 +34,6 @@
 <a href="https://www.linkedin.com/in/ho%C3%A0-nguy%E1%BB%85n-huy-22a910213/" target="_blank"><img src="https://img.icons8.com/external-justicon-flat-justicon/32/000000/external-linkedin-social-media-justicon-flat-justicon.png" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/hoanguyen6__/" target="_blank"><img src="https://img.icons8.com/fluency/32/000000/instagram-new.png" alt="Instagram"></a>
 <a href="https://www.facebook.com/hoanguyen2661" target="_blank"><img src="https://img.icons8.com/color/32/000000/facebook-new.png" alt="Facebook"></a>
-<p><img src="https://img.icons8.com/ios/32/000000/apple-mail.png" alt="Mail"> hoahuy2606@gmail.com</p>
+<a><img src="https://img.icons8.com/ios/32/000000/apple-mail.png" alt="Mail"> hoahuy2606@gmail.com</a>
 
 
